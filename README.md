@@ -1,2 +1,2 @@
 # Codewars_8kyu_solutions
-My solutions to codewars 8 kyu katas
+My solutions to codewars 8 kyu katas (in javascript)
